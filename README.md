@@ -94,11 +94,11 @@ I'm Nandani, a developer who enjoys **exploring AI, building products, solving p
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Nandani2024-Tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.shion.dev/api?username=Nandani2024-Tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://streak-stats.demolab.com/?user=Nandani2024-Tech&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nandani2024-Tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nandani2024-Tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
